@@ -1,4 +1,4 @@
-The files in this directory is supplementary material to "Donatelli, A., Mastrantonio, G. & Ciucci, P. Circadian activity of small brown bear populations
+The files in this directory is supplementary material for "Donatelli, A., Mastrantonio, G. & Ciucci, P. Circadian activity of small brown bear populations
 living in human-dominated landscapes. *Sci Rep* **12**, 15804 (2022). https://doi.org/10.1038/s41598-022-20163-1"
 Please refer to the aforementioned publication for details and context.
 
